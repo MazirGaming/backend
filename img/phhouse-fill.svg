@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="ph:house-fill_Background_Mask_" data-name="ph:house-fill (Background/Mask)" width="16" height="16" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="ph:house-fill" clip-path="url(#clip-path)">
+    <path id="Vector" d="M12,11.326a1.005,1.005,0,0,1-.528.884.963.963,0,0,1-.471.116H8a.5.5,0,0,1-.5-.5v-3a.5.5,0,0,0-.5-.5H5a.5.5,0,0,0-.5.5v3a.5.5,0,0,1-.5.5H1a.995.995,0,0,1-.749-.338A1.03,1.03,0,0,1,0,11.3V5.547a1,1,0,0,1,.327-.74l5-4.546a1,1,0,0,1,1.345,0l5,4.546a1,1,0,0,1,.327.74Z" transform="translate(2 1.674)" fill="#1d4ed8"/>
+  </g>
+</svg>

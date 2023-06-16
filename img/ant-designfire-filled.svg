@@ -1,0 +1,11 @@
+<svg id="ant-design:fire-filled" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="ant-design:fire-filled_Background_Mask_" data-name="ant-design:fire-filled (Background/Mask)" width="16" height="16" fill="none"/>
+    </clipPath>
+  </defs>
+  <rect id="ant-design:fire-filled_Background_Mask_2" data-name="ant-design:fire-filled (Background/Mask)" width="16" height="16" fill="none"/>
+  <g id="ant-design:fire-filled-2" data-name="ant-design:fire-filled" clip-path="url(#clip-path)">
+    <path id="Vector" d="M9.238,4.527l-.455-.417a.126.126,0,0,0-.2.052l-.2.583A3.319,3.319,0,0,1,7.688,5.85a.1.1,0,0,1-.064.031.086.086,0,0,1-.067-.023.092.092,0,0,1-.031-.075,6.035,6.035,0,0,0-.839-3.156A5.568,5.568,0,0,0,4.584.4L3.939.017a.125.125,0,0,0-.187.114l.034.75a3.407,3.407,0,0,1-.177,1.342A4.456,4.456,0,0,1,2.875,3.5a4.619,4.619,0,0,1-.742.72,5.509,5.509,0,0,0-1.567,1.9A5.434,5.434,0,0,0,0,8.527a5.378,5.378,0,0,0,.433,2.125A5.506,5.506,0,0,0,5.5,13.98a5.525,5.525,0,0,0,2.139-.427,5.494,5.494,0,0,0,2.928-2.9,5.427,5.427,0,0,0-.034-4.327h0A5.43,5.43,0,0,0,9.238,4.527Z" transform="translate(2.5 1.005)" fill="#ef4444"/>
+  </g>
+</svg>

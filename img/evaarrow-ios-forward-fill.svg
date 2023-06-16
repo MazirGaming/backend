@@ -1,0 +1,11 @@
+<svg id="eva:arrow-ios-forward-fill" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18" viewBox="0 0 18 18">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="eva:arrow-ios-forward-fill_Background_Mask_" data-name="eva:arrow-ios-forward-fill (Background/Mask)" width="18" height="18" fill="none"/>
+    </clipPath>
+  </defs>
+  <rect id="eva:arrow-ios-forward-fill_Background_Mask_2" data-name="eva:arrow-ios-forward-fill (Background/Mask)" width="18" height="18" fill="none"/>
+  <g id="eva:arrow-ios-forward-fill-2" data-name="eva:arrow-ios-forward-fill" clip-path="url(#clip-path)">
+    <path id="Vector" d="M-.269,10.327A.747.747,0,0,0-.086,10.1.752.752,0,0,0,0,9.819a.753.753,0,0,0-.03-.291.75.75,0,0,0-.139-.257L-3.5,5.26-.291,1.242A.75.75,0,0,0-.156.983.753.753,0,0,0-.129.691.752.752,0,0,0-.216.411.747.747,0,0,0-.4.187.743.743,0,0,0-.668.036.739.739,0,0,0-.97,0,.74.74,0,0,0-1.26.1a.745.745,0,0,0-.229.2l-3.592,4.49a.751.751,0,0,0-.169.475.751.751,0,0,0,.169.475l3.719,4.49a.744.744,0,0,0,.277.209.74.74,0,0,0,.341.06A.741.741,0,0,0-.269,10.327Z" transform="translate(4.125 6.375) rotate(-90)" fill="#fff"/>
+  </g>
+</svg>

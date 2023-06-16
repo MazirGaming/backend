@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="entypo:wallet_Background_Mask_" data-name="entypo:wallet (Background/Mask)" width="16" height="16" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="entypo:wallet" clip-path="url(#clip-path)">
+    <path id="Vector" d="M11.2,12.589H1.6a1.6,1.6,0,0,1-1.6-1.6v-8A1.9,1.9,0,0,1,1.584,1.163L9.616.016A1.571,1.571,0,0,1,9.838,0,1.346,1.346,0,0,1,11.2,1.39v1.2H10v-.7l-8.8.7v.4h10a1.6,1.6,0,0,1,1.6,1.6v6.4a1.6,1.6,0,0,1-1.6,1.6ZM10,6.194a1.2,1.2,0,0,0-.849.351,1.211,1.211,0,0,0-.261.39A1.2,1.2,0,1,0,10,6.194Z" transform="translate(1.6 1.811)" fill="#047857"/>
+  </g>
+</svg>
