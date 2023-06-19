@@ -10,6 +10,9 @@ use PHPMailer\PHPMailer\SMTP;
 use PHPMailer\PHPMailer\Exception;
 
 require '../connect.php';
+include '../function.php';
+
+authenticate();
 
 $mail_template_code = $_GET['mail_template_code'];
 
@@ -19,26 +22,6 @@ if (empty($mail_template_code)) {
         'message' => 'mail_template_code cannot be empty'
     ];
     header("HTTP/1.0 400 mail_template_code cannot be empty");
-    echo json_encode($data);
-    exit();
-}
-
-if (empty($_SESSION['user'])) {
-    $data = [
-        'status' => 500,
-        'message' => 'You need login'
-    ];
-    header("HTTP/1.0 500 You need login");
-    echo json_encode($data);
-    exit();
-}
-
-if ($_SESSION['user']['role'] != 1) {
-    $data = [
-        'status' => 500,
-        'message' => 'You need login with role admin'
-    ];
-    header("HTTP/1.0 500 You need login with role admin");
     echo json_encode($data);
     exit();
 }

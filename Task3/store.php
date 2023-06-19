@@ -8,31 +8,14 @@ header("Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers
 require '../connect.php';
 include '../function.php';
 
-if (empty($_SESSION['user'])) {
-    $data = [
-        'status' => 500,
-        'message' => 'You need login'
-    ];
-    header("HTTP/1.0 500 You need login");
-    echo json_encode($data);
-    exit();
-}
-
-if ($_SESSION['user']['role'] != 1) {
-    $data = [
-        'status' => 500,
-        'message' => 'You need login with role admin'
-    ];
-    header("HTTP/1.0 500 You need login with role admin");
-    echo json_encode($data);
-    exit();
-}
-
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
+    authenticate();
+    
     $input = json_decode(file_get_contents("php://input"), true);
     
     if (!empty($input)) {
         $input = inputData($input);
+        echo $input;
     } else {
         $input = inputData($_POST);
     }
